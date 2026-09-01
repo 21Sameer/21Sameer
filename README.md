@@ -1,14 +1,24 @@
-<div align="center">
 
-# Sameer Qureshi
-### AI Engineer · Full-Stack Developer
 
-Building production AI systems — LLM apps, agents, RAG, MCP architecture, trading AI.
-Based in Peshawar, Pakistan.
+## About Me
 
-[Portfolio](https://yourportfolio.com) · [GitHub](https://github.com/21Sameer) · [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR_EMAIL@gmail.com)
+I build at the intersection of AI and software engineering — not just to ship features, but to ship systems that think. I'm an AI Engineer and Full-Stack Developer working full-time at ByteBoom, and freelancing as a consultant on the side.
 
-</div>
+**Focus**
+- Deep focus on LLMs, AI Agents, RAG pipelines, and MCP-based multi-agent systems
+- Building production crypto market intelligence platforms — 9-microservice signal fusion (TA, Whale, ETF, Flow, Macro, News)
+- AI trading infrastructure — Binance integration, live/paper trading, automated signal generation
+- Document Intelligence & OCR automation using Claude Vision
+- Open to AI engineering problems, consulting engagements, and meaningful collaborations
+
+**Open To:** AI consulting · Full-stack contracts · Agentic system architecture · LLM/RAG engagements
+
+<p align="center">
+<a href="https://sameerqureshi.site">Website</a> ·
+<a href="https://github.com/21Sameer">GitHub</a> ·
+<a href="https://linkedin.com/in/sameer-q">LinkedIn</a> ·
+<a href="mailto:qsameer99@gmail.com">Email</a>
+</p>
 
 ---
 
@@ -25,10 +35,3 @@ Based in Peshawar, Pakistan.
 **AI Engineer @ ByteBoom** — Production AI systems, MCP architecture, multi-agent systems, LLM integrations, OCR pipelines, RAG applications.
 
 ---
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=21Sameer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=11BCEE&icon_color=11BCEE&text_color=ffffff"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=21Sameer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=11BCEE"/>
-
-</div>
